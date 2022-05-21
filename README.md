@@ -10,5 +10,6 @@
 ## CSS
 ## JavaScripts
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/variable_and_fuction.md">변수와 함수</a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_common%20sense.md">상수와 작은 TIP</a>
 ## memoir
 - <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Instagram_v1_memoir.md">인스타그램 클론코딩 v1 (퍼블리싱) 회고록</a>
