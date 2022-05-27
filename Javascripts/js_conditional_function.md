@@ -27,3 +27,17 @@
  - 숫자로 변환이 되어야 비교가 가능함 <br>
   ( ex) console.log(typeof "15", typeof parseInt("15")); -> string number )
  - ( 특) "숫자"가 아닌게 입력되면 변환불가) [NaN(nat a number)] )<br>
+
+
+### isNaN <br>
+
+#### 의미
+ - 입력받은 것이 NaN인지 판별하는 방법
+ - ex)<br>
+  const age= parseInt(prompt (“How old are you?”));<br>
+  console.log(isNaN(age));<br>
+  const age= parseInt(prompt (“How old are you?”));<br>
+  console.log(isNaN(age));<br>
+ - 글자 입력시 ture, 숫자 입력시 false가 출력됨 <br>
+
+#### condition은 boolean(true , false)으로 판별가능해야 함 <br>
