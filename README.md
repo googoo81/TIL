@@ -13,5 +13,6 @@
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_common%20sense.md">상수와 작은 TIP</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_Data_type_and_structure.md">자료형과 자료구조</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_function_and_argument.md"> 함수와 인수 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_conditional_function.md"> 변수 함수 </a>
 ## memoir
 - <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Instagram_v1_memoir.md">인스타그램 클론코딩 v1 (퍼블리싱) 회고록</a>
