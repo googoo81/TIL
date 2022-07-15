@@ -7,6 +7,7 @@
 
 ## C
 ## HTML
+- <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md">기본 용어</a>
 ## CSS
 ## JavaScripts
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/variable_and_fuction.md">변수와 함수</a>(Not Nomad)
