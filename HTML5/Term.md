@@ -1,12 +1,16 @@
 # TAG Concept <br>
 
+<br>
+
 태그란? : HTML의 가장 기본적이고 중요한 문법<br><br>
 `(ex) <~~>  ←태그, </~~> ←닫는 태그, <~~>(내용)</~~>) ` <br><br> 
 태그로 열고 닫으면 연 부분 부터 닫은 부분까지 명령어가 적용이 된다. <br><br>
 
-<br><br>
+<br><br><br><br>
 
-# Command List <br><br>
+# Command List <br>
+
+<br>
 
 ### Foundation Tag <br>
 `<h~>` : 제목으로 설정할 수 있다.(~의 숫자가 작아 질수록 크기가 작아진다.) <br>
