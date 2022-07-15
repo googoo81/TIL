@@ -1,4 +1,4 @@
-# TAG Concept <br><br>
+# TAG Concept <br>
 
 태그란? : HTML의 가장 기본적이고 중요한 문법<br><br>
 `(ex) <~~>  ←태그, </~~> ←닫는 태그, <~~>(내용)</~~>) ` <br><br> 
@@ -6,8 +6,9 @@
 
 <br><br>
 
-## Command List <br>
+# Command List <br><br>
 
+### Foundation Tag <br>
 `<h~>` : 제목으로 설정할 수 있다.(~의 숫자가 작아 질수록 크기가 작아진다.) <br>
 
 `<strong>` : 글자를 굵게 만들 수 있다. <br>
@@ -17,3 +18,15 @@
 `“target”`을 `<a>`태그안에 넣으면 URL연결을 할 수 있다. <br>
 
 `“blank”` : 사용시 기존탭이 아닌 새탭에서 URL을 연결할 수 있다. <br>
+
+<br><br>
+
+### LIST Tag <br>
+
+`<ol>` : 번호를 메겨 순서가 있는 (ordered list) 목록을 만들 수 있다. {그룹핑}
+
+`<ul>` : 순서없이 모양으로 (unordered list) 목록을 만들 수 있다. {그룹핑}
+
+`<li>` : list약자로 리스트 나열용도로 사용된다
+
+위 태그들은 전무 목차와 관련있으며 묶어주는 역할이다.
