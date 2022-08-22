@@ -8,6 +8,7 @@
 ## C
 ## HTML
 - <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md">기본 용어</a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/nomal_grammar.md">개요</a>
 ## CSS
 - <a href = "https://github.com/googoo81/TIL/blob/main/CSS3/Terminology%20Organization.md">의의와 선택자 사용법<a>
 ## JavaScripts
