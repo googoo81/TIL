@@ -1,10 +1,6 @@
 # TIL
 제가 공부하는것들을 올리는 장소에요
 
-<규칙>
-- 차차 만들어나갈 예정입니다.( •̀ ω •́ )✧
-
-
 ## C
 ## HTML
 - <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md">기본 용어</a>
