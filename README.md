@@ -8,7 +8,7 @@
 ## CSS
 - <a href = "https://github.com/googoo81/TIL/blob/main/CSS3/Terminology%20Organization.md">의의와 선택자 사용법<a>
 ## JavaScripts
-- <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/variable_and_fuction.md">변수와 함수</a>(Not Nomad)
+- <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/variable_and_fuction.md">변수와 함수</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_common%20sense.md">상수와 작은 TIP</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_Data_type_and_structure.md">자료형과 자료구조</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/Javascripts/js_function_and_argument.md"> 함수와 인수 </a>
