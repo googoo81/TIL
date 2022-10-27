@@ -1,7 +1,6 @@
 # TIL
 제가 공부하는것들을 올리는 장소에요
 
-## C
 ## HTML
 - <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md">기본 용어</a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/nomal_grammar.md">개요</a>
