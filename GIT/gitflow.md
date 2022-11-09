@@ -6,4 +6,4 @@
 - develop : master branch 병합 
 - feature : develop branch의 서브 branch > 기능들을 구현한뒤 develop branch에서 병합
 - release : 배포를 위해서 master branch로 가서 QA(품질검사)함.
-- hotfix : 배포뒤 오류등을 긴급 수정
+- hotfix : 배포뒤 오류등을 긴급 수정한다
