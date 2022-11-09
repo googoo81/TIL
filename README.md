@@ -2,7 +2,7 @@
 제가 공부하는것들을 올리는 장소에요
 
 ## HTML5
-- <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md"> 기본 용어 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/Term.md"> 정리 </a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/HTML5/nomal_grammar.md"> 개요 </a>
 ## CSS3
 - <a href = "https://github.com/googoo81/TIL/blob/main/CSS3/Terminology%20Organization.md"> 의의와 선택자 사용법 <a>
