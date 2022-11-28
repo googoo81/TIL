@@ -23,6 +23,7 @@
 ## GIT
 - <a href = "https://github.com/googoo81/TIL/blob/main/GIT/gitflow.md"> 깃 플로우 </a>
 ## memoir
-- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Instagram_v1_memoir.md">인스타그램 클론코딩 v1 (퍼블리싱) 회고록</a>
-- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/MokpoSimulater_memoir.md">목포 시뮬레이터 제작 및 배포 회고록</a>
-- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Starbucks_exercise_clone_memoir.md">패스트캠퍼스 스타벅스 클론코딩 예제 회고록</a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Instagram_v1_memoir.md"> 인스타그램 클론코딩 v1 (퍼블리싱) 회고록 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/MokpoSimulater_memoir.md"> 목포 시뮬레이터 제작 및 배포 회고록 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/Starbucks_exercise_clone_memoir.md"> 패스트캠퍼스 스타벅스 클론코딩 예제 회고록 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/Memoir/EggTart_memoir.md"> 에그타르트 제작 회고록 </a>
