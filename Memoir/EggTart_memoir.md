@@ -78,3 +78,5 @@
   
 <br><br>
   
+## 시연 영상 (gif)
+  <img src="https://user-images.githubusercontent.com/101445027/204401730-87594f92-9d6c-4424-bb03-6c5bc1f24cff.gif">
