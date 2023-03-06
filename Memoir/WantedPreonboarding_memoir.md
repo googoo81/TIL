@@ -24,7 +24,7 @@
 ## 궁금한 점을 정리 -
  - <a href="https://github.com/googoo81/TIL/blob/main/plusAlpa/styledComponent_scss_difference.md">SCSS와 styled components의 차이점</a>
  - <a href="https://github.com/googoo81/TIL/blob/main/plusAlpa/SSR_CSR_differnece.md">SSR과 CSR</a>
- - <a href="https://github.com/googoo81/TIL/blob/main/plusAlpa/webpack_use_reseon.md)">Webpack을 사용하는 이유</a>
+ - <a href="https://github.com/googoo81/TIL/blob/main/plusAlpa/webpack_use_reseon.md">Webpack을 사용하는 이유</a>
 
 <br>
 
