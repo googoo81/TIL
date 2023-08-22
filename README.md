@@ -35,6 +35,11 @@
 
 <br>
 
+## Typescript
+- <a href ="https://github.com/googoo81/TIL/blob/main/Typescript/whyuse.md"> 타입스크립트를 사용하는 이유 </a>
+
+<br>
+
 ## GIT
 - <a href = "https://github.com/googoo81/TIL/blob/main/GIT/gitflow.md"> 깃 플로우 </a>
 
