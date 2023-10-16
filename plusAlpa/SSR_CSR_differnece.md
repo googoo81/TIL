@@ -1,7 +1,5 @@
 # SSR과 CSR 
 
-<br><br>
-
 ## SSR의 정의 및 설명
 
 <br>
