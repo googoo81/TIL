@@ -41,7 +41,7 @@
 <br>
 
 ## GIT
-- <a href = "https://github.com/googoo81/TIL/blob/main/GIT/gitflow.md"> 깃 플로우 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/GIT/gitflow.md"> Gitflow </a>
 
 <br>
 
@@ -50,6 +50,7 @@
 ### 개발 상식
 - <a href = "https://github.com/googoo81/TIL/blob/main/CS/DevelopCommonSense/MVC.md"> MVC 패턴 </a>
 - <a href = "https://github.com/googoo81/TIL/blob/main/CS/DevelopCommonSense/fucPrograming.md"> 함수형 프로그래밍 </a>
+- <a href = "https://github.com/googoo81/TIL/blob/main/CS/DevelopCommonSense/TDD.md"> TDD </a>
 
 <br>
 
